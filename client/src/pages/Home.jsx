@@ -4,7 +4,9 @@ function Home() {
     function hi(){
         console.log("ji")
     }
-
+function hello(){
+    
+}
   return (
     <div>Home</div>
   )
